@@ -19,7 +19,7 @@ message: "Hello from Development Environment!"
 # Container image
 image:
   repository: nginx
-  tag: alpine
+  tag: 1.27.0
 
 # Ingress configuration
 ingress:
